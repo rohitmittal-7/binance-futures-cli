@@ -5,7 +5,7 @@ This is a Python CLI-based trading application that connects to Binance Futures 
 
 ---
 
-## ⚙️ Features
+##  Features
 - Place MARKET orders
 - Place LIMIT orders
 - Supports BUY and SELL positions
@@ -15,7 +15,7 @@ This is a Python CLI-based trading application that connects to Binance Futures 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python 3
 - Requests library
 - Binance Futures Testnet API
@@ -23,7 +23,7 @@ This is a Python CLI-based trading application that connects to Binance Futures 
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install dependencies
 ```bash
